@@ -1,0 +1,24 @@
+{
+  "name": "RESTAPIJSON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "restapiusingexpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamoon1997/REST-API-USING-NODE-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamoon1997/REST-API-USING-NODE-JS/issues"
+  },
+  "homepage": "https://github.com/shamoon1997/REST-API-USING-NODE-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonschema": "^1.4.0"
+  }
+}
